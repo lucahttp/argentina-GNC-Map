@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+      }
+    </style>
+    <script>
+      // TO MAKE THE MAP APPEAR YOU MUST
+      // ADD YOUR ACCESS TOKEN FROM
+      // https://account.mapbox.com
+      mapboxgl.accessToken =
+        "pk.eyJ1Ijoic3VwZXJsdWNhIiwiYSI6ImNsdWViYWo2ajFyMWIyc2wwY2N1cDVvMW4ifQ.yk_2gaxN5xn6X9IaNayPHQ";
+      const map = new mapboxgl.Map({
+        container: "map",
+        // Choose from Mapbox's core styles, or make your own style with Mapbox Studio
+        style: "mapbox://styles/mapbox/light-v11",
+        zoom: 10,
+        center: [-58.491596, -34.578468],
+      });
+
+      map.on("load", () => {
+        map.addSource("wms-test-source", {
+          type: "raster",
+          // use the tiles option to specify a WMS tile source URL
+          // https://docs.mapbox.com
+          // https://docs.mapbox.com/style-spec/reference/sources/
+          tiles: [
+            "https://img.nj.gov/imagerywms/Natural2015?bbox={bbox-epsg-3857}&format=image/png&service=WMS&version=1.1.1&request=GetMap&srs=EPSG:3857&transparent=true&width=256&height=256&layers=Natural2015",
+          ],
+          //'tileSize': 256
+        });
+        map.addLayer(
+          {
+            id: "wms-test-layer",
+            type: "raster",
+            source: "wms-test-source",
+            paint: {},
+          },
+          "building" // Place layer under labels, roads and buildings.
+        );
+      });
+    </script>
+  </head>
+  <body>
+    <div id="map"></div>
+  </body>
+</html>
