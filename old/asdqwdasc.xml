@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wfs:FeatureCollection xmlns:ms="http://mapserver.gis.umn.edu/mapserver" xmlns:wfs="http://www.opengis.net/wfs" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.0.0/WFS-basic.xsd 
+                       http://mapserver.gis.umn.edu/mapserver https://sig.energia.gob.ar/mapserv?map=/etc/mapserver/mapase.map&amp;SERVICE=WFS&amp;VERSION=1.0.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=res1104_mmino_dist&amp;OUTPUTFORMAT=XMLSCHEMA">
+  <gml:boundedBy>
+    <gml:Box srsName="EPSG:4326">
+      <gml:coordinates>-68.829251,-45.895710 -54.511088,-23.206930</gml:coordinates>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.394">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-59.648530,-29.113630 -59.648530,-29.113630</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-59.648530,-29.113630</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>UNION AGRICOLA DE AVELLANEDA, COOP. LTDA.</ms:razonsocial>
+      <ms:cuit>30-50191240-5</ms:cuit>
+      <ms:direccion>CALLE 26 Y 301</ms:direccion>
+      <ms:localidad>AVELLANEDA</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.492">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-58.962010,-27.417230 -58.962010,-27.417230</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-58.962010,-27.417230</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>GRUPO CREAR SRL</ms:razonsocial>
+      <ms:cuit>30-70816862-5</ms:cuit>
+      <ms:direccion>RUTA NICOLAS AVELLANEDA -KM. 13,10</ms:direccion>
+      <ms:localidad>RESISTENCIA</ms:localidad>
+      <ms:provincia>CHACO</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.1187">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-58.637859,-31.729006 -58.637859,-31.729006</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-58.637859,-31.729006</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>ORGANIZACION DELASOIE HNOS. S.A.</ms:razonsocial>
+      <ms:cuit>30-54699573-5</ms:cuit>
+      <ms:direccion>RUTA 18 KM.187</ms:direccion>
+      <ms:localidad>JUBILEO</ms:localidad>
+      <ms:provincia>ENTRE RIOS</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.1255">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-64.241280,-27.851094 -64.241280,-27.851094</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-64.241280,-27.851094</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>PETROSERVICE SRL</ms:razonsocial>
+      <ms:cuit>30-68665836-4</ms:cuit>
+      <ms:direccion>RUTA NAC Nº 9 KM 1129</ms:direccion>
+      <ms:localidad>EL ZANJON</ms:localidad>
+      <ms:provincia>SANTIAGO DEL ESTERO</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.1327">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-54.647590,-26.424860 -54.647590,-26.424860</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-54.647590,-26.424860</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>ERIKSEN  &amp;  CIA. S.A.C.I.F.I.</ms:razonsocial>
+      <ms:cuit>30-52959275-9</ms:cuit>
+      <ms:direccion>AV. A. SCHWELM S/N</ms:direccion>
+      <ms:localidad>EL DORADO</ms:localidad>
+      <ms:provincia>MISIONES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.1330">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-58.277478,-34.761612 -58.277478,-34.761612</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-58.277478,-34.761612</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>SIMACO SA</ms:razonsocial>
+      <ms:cuit>30-55869597-4</ms:cuit>
+      <ms:direccion>AV 24 (ATANASIO LANZ) Nº 1220</ms:direccion>
+      <ms:localidad>BERAZATEGUI</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.1643">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-59.858310,-37.646320 -59.858310,-37.646320</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-59.858310,-37.646320</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>CONSTANTINO RAUL ALONSO</ms:razonsocial>
+      <ms:cuit>20-10913616-7</ms:cuit>
+      <ms:direccion>Av. Zabalza 356</ms:direccion>
+      <ms:localidad>BENITO JUAREZ</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.1677">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-64.274430,-35.907470 -64.274430,-35.907470</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-64.274430,-35.907470</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>RAUL JOSE BATET SRL</ms:razonsocial>
+      <ms:cuit>30-70807838-3</ms:cuit>
+      <ms:direccion>AVDA.INDEPENDENCIA S/N</ms:direccion>
+      <ms:localidad>EDUARDO CASTEX</ms:localidad>
+      <ms:provincia>LA PAMPA</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.2081">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-64.825370,-30.749320 -64.825370,-30.749320</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-64.825370,-30.749320</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>BARALE Y GHIO S.A.C.I.F.</ms:razonsocial>
+      <ms:cuit>30-53038559-7</ms:cuit>
+      <ms:direccion>RUTA 38 KM. 126</ms:direccion>
+      <ms:localidad>CRUZ DEL EJE</ms:localidad>
+      <ms:provincia>CORDOBA</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.2164">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-59.326550,-27.611450 -59.326550,-27.611450</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-59.326550,-27.611450</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>ADOLFO SARTORI S.A.</ms:razonsocial>
+      <ms:cuit>30-54329476-0</ms:cuit>
+      <ms:direccion>RUTA NAC. 14 KM. 855 (ruta nacional)</ms:direccion>
+      <ms:localidad>L.N. ALEM</ms:localidad>
+      <ms:provincia>MISIONES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.2406">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-61.078270,-27.115800 -61.078270,-27.115800</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-61.078270,-27.115800</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>PETRO BREÑAS SA</ms:razonsocial>
+      <ms:cuit>30-58522475-4</ms:cuit>
+      <ms:direccion>Ruta 89 y 6</ms:direccion>
+      <ms:localidad>LAS BREÑAS</ms:localidad>
+      <ms:provincia>CHACO</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.2431">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-59.113980,-37.313200 -59.113980,-37.313200</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-59.113980,-37.313200</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>PETROTANDIL SA</ms:razonsocial>
+      <ms:cuit>30-53523084-2</ms:cuit>
+      <ms:direccion>Las Malvinas 1332</ms:direccion>
+      <ms:localidad>TANDIL</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.2463">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-59.773050,-35.273200 -59.773050,-35.273200</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-59.773050,-35.273200</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>AGENTES ROMERO S.A.</ms:razonsocial>
+      <ms:cuit>30-52015269-1</ms:cuit>
+      <ms:direccion>KILMURRY 610</ms:direccion>
+      <ms:localidad>NORBERTO DE LA RIESTRA</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.2466">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-65.226580,-31.963530 -65.226580,-31.963530</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-65.226580,-31.963530</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>D.G.B.  S.R.L.</ms:razonsocial>
+      <ms:cuit>30-70728425-7</ms:cuit>
+      <ms:direccion>RUTA 20 KM. 202.2</ms:direccion>
+      <ms:localidad>VILLA DOLORES</ms:localidad>
+      <ms:provincia>CORDOBA</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.2587">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-61.310945,-31.758066 -61.310945,-31.758066</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-61.310945,-31.758066</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>ESMACOL S.A.</ms:razonsocial>
+      <ms:cuit>30-70800158-5</ms:cuit>
+      <ms:direccion>AV. RISSO PATRON 781</ms:direccion>
+      <ms:localidad>SANTA CLARA DE BUENA VISTA</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.2720">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-62.408860,-27.656720 -62.408860,-27.656720</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-62.408860,-27.656720</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>SUCESORES DE ANTONIO LLADHON S.R.L</ms:razonsocial>
+      <ms:cuit>30-67506349-0</ms:cuit>
+      <ms:direccion>RUTA PROV. 116 Y NAC.89</ms:direccion>
+      <ms:localidad>QUIMILI</ms:localidad>
+      <ms:provincia>SANTIAGO DEL ESTERO</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.3373">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.637538,-32.944004 -60.637538,-32.944004</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.637538,-32.944004</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>COMBUSTIBLES DEL PARANA SA</ms:razonsocial>
+      <ms:cuit>30-70846229-9</ms:cuit>
+      <ms:direccion>SARMIENTO 581</ms:direccion>
+      <ms:localidad>ROSARIO</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.3491">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-59.524280,-33.828610 -59.524280,-33.828610</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-59.524280,-33.828610</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>GENOIL CO. S.A.</ms:razonsocial>
+      <ms:cuit>33-70812878-9</ms:cuit>
+      <ms:direccion>Oroarke S/N</ms:direccion>
+      <ms:localidad>CAPITAL FEDERAL</ms:localidad>
+      <ms:provincia>CAPITAL FEDERAL</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.3497">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-58.736750,-38.537730 -58.736750,-38.537730</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-58.736750,-38.537730</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>BRGS SA</ms:razonsocial>
+      <ms:cuit>30-69734775-1</ms:cuit>
+      <ms:direccion>RUTA PROVINCIAL 86 Y CALLE 78</ms:direccion>
+      <ms:localidad>NECOCHEA</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.3644">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.327770,-32.331390 -60.327770,-32.331390</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.327770,-32.331390</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>LA AGRICOLA REGIONAL COOP. LTDA.</ms:razonsocial>
+      <ms:cuit>33-50404708-9</ms:cuit>
+      <ms:direccion>RUTA NAC. NRO 131 KM 35,5 Y ACCESO PTE ILLIA</ms:direccion>
+      <ms:localidad>CRESPO</ms:localidad>
+      <ms:provincia>ENTRE RIOS</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.3667">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.760231,-32.720160 -60.760231,-32.720160</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.760231,-32.720160</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>PETROBONO S.A.</ms:razonsocial>
+      <ms:cuit>30-64817255-5</ms:cuit>
+      <ms:direccion>Ruta provincial 10 Km 0,7, oficina A</ms:direccion>
+      <ms:localidad>SAN LORENZO</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.3681">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.746529,-32.727325 -60.746529,-32.727325</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.746529,-32.727325</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>COLVI S.A.</ms:razonsocial>
+      <ms:cuit>30-63912043-7</ms:cuit>
+      <ms:direccion>PRESIDENTE PERON 2039 - OF B</ms:direccion>
+      <ms:localidad>SAN LORENZO</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.4053">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-62.951690,-36.744710 -62.951690,-36.744710</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-62.951690,-36.744710</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>DORA I. SUAREZ DE FERREIRO</ms:razonsocial>
+      <ms:cuit>30-66466912-5</ms:cuit>
+      <ms:direccion>ACCESO CENTENARIO</ms:direccion>
+      <ms:localidad>SALLIQUELO</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.4145">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.667431,-33.175656 -60.667431,-33.175656</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.667431,-33.175656</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>ONAS C.A.P.S.A.</ms:razonsocial>
+      <ms:cuit>30-70785485-1</ms:cuit>
+      <ms:direccion>RUTA PCÍAL 26 S 32.5</ms:direccion>
+      <ms:localidad>CARMEN DEL SAUCE</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.4255">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-61.951482,-37.071249 -61.951482,-37.071249</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-61.951482,-37.071249</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>FELICE JOSE LUIS Y MAGNO JORGE</ms:razonsocial>
+      <ms:cuit>33-63098725-9</ms:cuit>
+      <ms:direccion>DR. H. G. ROSA (EX CALLE 9) ESQ. 42</ms:direccion>
+      <ms:localidad>HUANGUELEN</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.4262">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-59.681392,-34.782358 -59.681392,-34.782358</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-59.681392,-34.782358</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>COINCER S.A.</ms:razonsocial>
+      <ms:cuit>30-57607056-6</ms:cuit>
+      <ms:direccion>RIVADAVIA 215</ms:direccion>
+      <ms:localidad>SUIPACHA</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.4274">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-62.421660,-37.611170 -62.421660,-37.611170</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-62.421660,-37.611170</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>FELICE JOSE LUIS Y MAGNO JORGE</ms:razonsocial>
+      <ms:cuit>33-63098725-9</ms:cuit>
+      <ms:direccion>RUTA NACIONAL 33 KM.131</ms:direccion>
+      <ms:localidad>PIGUE</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.5199">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-58.458972,-34.555823 -58.458972,-34.555823</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-58.458972,-34.555823</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>WILNOR S.A.</ms:razonsocial>
+      <ms:cuit>30-70756097-1</ms:cuit>
+      <ms:direccion>Cuba 2641  1º Piso Of 1</ms:direccion>
+      <ms:localidad>CAPITAL FEDERAL</ms:localidad>
+      <ms:provincia>CAPITAL FEDERAL</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.5227">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-57.991908,-30.756650 -57.991908,-30.756650</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-57.991908,-30.756650</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>DAPSA S.A.</ms:empresabandera>
+      <ms:razonsocial>PETROMAS SRL</ms:razonsocial>
+      <ms:cuit>30-59357362-8</ms:cuit>
+      <ms:direccion>CNL. GUARUMBA 3239 ESQ. AVDA. SIBURU</ms:direccion>
+      <ms:localidad>CHAJARI</ms:localidad>
+      <ms:provincia>ENTRE RIOS</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.5384">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.597450,-30.791770 -60.597450,-30.791770</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.597450,-30.791770</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>ORLANDO MANUEL AGENO E HIJOS S.R.L.</ms:razonsocial>
+      <ms:cuit>30-58195435-9</ms:cuit>
+      <ms:direccion>SANTA FE 2717</ms:direccion>
+      <ms:localidad>SAN JUSTO</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.5412">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.888498,-32.458630 -60.888498,-32.458630</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.888498,-32.458630</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>PRIALIS ROBERTO JOSE</ms:razonsocial>
+      <ms:cuit>24-12452409-8</ms:cuit>
+      <ms:direccion>BVARD. SARMIENTO 448</ms:direccion>
+      <ms:localidad>MACIEL</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.5534">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-68.108770,-38.902720 -68.108770,-38.902720</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-68.108770,-38.902720</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>NEUQUEN PETRO OESTE S.R.L.</ms:razonsocial>
+      <ms:cuit>30-64676636-9</ms:cuit>
+      <ms:direccion>FRAY LUIS BELTRAN N° 3556</ms:direccion>
+      <ms:localidad>NEUQUEN</ms:localidad>
+      <ms:provincia>NEUQUEN</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.6076">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-55.921390,-27.400280 -55.921390,-27.400280</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-55.921390,-27.400280</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>PETROVALLE S.A.</ms:razonsocial>
+      <ms:cuit>30-57236539-1</ms:cuit>
+      <ms:direccion>AV. SAN MARTIN Y CALLE 122</ms:direccion>
+      <ms:localidad>POSADAS</ms:localidad>
+      <ms:provincia>MISIONES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.6085">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-59.940680,-30.580800 -59.940680,-30.580800</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-59.940680,-30.580800</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>SAN JAVIER SERVICIOS S.R.L.</ms:razonsocial>
+      <ms:cuit>30-69242669-6</ms:cuit>
+      <ms:direccion>RUTA PCIAL Nº1 KM. 146,800</ms:direccion>
+      <ms:localidad>SAN JAVIER</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.6088">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.765760,-32.702750 -60.765760,-32.702750</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.765760,-32.702750</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>LUBRICANTES SAN LORENZO S.R.L.</ms:razonsocial>
+      <ms:cuit>33-56965126-9</ms:cuit>
+      <ms:direccion>RUTA 11 Y 3 DE FEBRERO - PTO. SAN MARTIN</ms:direccion>
+      <ms:localidad>PUERTO GRAL. SAN MARTIN</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.6103">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.095273,-34.070589 -60.095273,-34.070589</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.095273,-34.070589</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>KEH COM S.A.</ms:razonsocial>
+      <ms:cuit>30-70806846-9</ms:cuit>
+      <ms:direccion>COLECTORA ARTURO ILLIA 702</ms:direccion>
+      <ms:localidad>ARRECIFES</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.6247">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-58.578514,-34.424571 -58.578514,-34.424571</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-58.578514,-34.424571</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>SHELL C.A.P.S.A.</ms:empresabandera>
+      <ms:razonsocial>ANACAPRI SACIFA</ms:razonsocial>
+      <ms:cuit>30-54076990-3</ms:cuit>
+      <ms:direccion>AV. ITALIA 1119</ms:direccion>
+      <ms:localidad>TIGRE</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.6310">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-68.537181,-31.519964 -68.537181,-31.519964</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-68.537181,-31.519964</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>TRES SOLES S.R.L</ms:razonsocial>
+      <ms:cuit>30-70903568-8</ms:cuit>
+      <ms:direccion>Salta 1294 (norte)</ms:direccion>
+      <ms:localidad>SAN JUAN</ms:localidad>
+      <ms:provincia>SAN JUAN</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.6972">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-65.221670,-26.726180 -65.221670,-26.726180</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-65.221670,-26.726180</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>LUBRE S.R.L.</ms:razonsocial>
+      <ms:cuit>30-71005185-9</ms:cuit>
+      <ms:direccion>ALBERDI 243</ms:direccion>
+      <ms:localidad>LOS NOGALES</ms:localidad>
+      <ms:provincia>TUCUMAN</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.7174">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-66.259990,-33.302670 -66.259990,-33.302670</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-66.259990,-33.302670</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>BIORNDESA S.A.</ms:razonsocial>
+      <ms:cuit>30-71019421-8</ms:cuit>
+      <ms:direccion>RUTA 7 KM 783</ms:direccion>
+      <ms:localidad>SAN LUIS</ms:localidad>
+      <ms:provincia>SAN LUIS</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.7236">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-61.933820,-29.881250 -61.933820,-29.881250</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-61.933820,-29.881250</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>MONDINO ADALBERTO S.A.</ms:razonsocial>
+      <ms:cuit>30-71035721-4</ms:cuit>
+      <ms:direccion>RUTA  Nac. N34 387</ms:direccion>
+      <ms:localidad>CERES</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.7265">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-68.829251,-32.866975 -68.829251,-32.866975</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-68.829251,-32.866975</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>COMBES COMBUSTIBLES SA</ms:razonsocial>
+      <ms:cuit>30-70851007-2</ms:cuit>
+      <ms:direccion>MONTECASEROS 2771</ms:direccion>
+      <ms:localidad>MENDOZA</ms:localidad>
+      <ms:provincia>MENDOZA</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.7492">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-64.099750,-23.206930 -64.099750,-23.206930</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-64.099750,-23.206930</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>EL GRAMILLAL AGISCA</ms:razonsocial>
+      <ms:cuit>30-55149428-0</ms:cuit>
+      <ms:direccion>ESPAÑA ESQUINA RUTA 34</ms:direccion>
+      <ms:localidad>EMBARCACION</ms:localidad>
+      <ms:provincia>SALTA</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.7541">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-58.735540,-27.436950 -58.735540,-27.436950</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-58.735540,-27.436950</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>OSCAR PACHECO SRL</ms:razonsocial>
+      <ms:cuit>30-70853346-3</ms:cuit>
+      <ms:direccion>RUTA NAC 12 1036.5</ms:direccion>
+      <ms:localidad>CORRIENTES</ms:localidad>
+      <ms:provincia>CORRIENTES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.7598">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-63.862170,-27.939230 -63.862170,-27.939230</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-63.862170,-27.939230</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>PETROSERVICE S.R.L.</ms:razonsocial>
+      <ms:cuit>30-68665836-4</ms:cuit>
+      <ms:direccion>RUTA 34 382.1</ms:direccion>
+      <ms:localidad>FERNANDEZ</ms:localidad>
+      <ms:provincia>SANTIAGO DEL ESTERO</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.7830">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-58.589659,-34.681153 -58.589659,-34.681153</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-58.589659,-34.681153</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>ATRUM S.A.</ms:razonsocial>
+      <ms:cuit>30-71205319-0</ms:cuit>
+      <ms:direccion>AMBROSETTI 1804</ms:direccion>
+      <ms:localidad>LA MATANZA</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.7850">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-57.811600,-36.094550 -57.811600,-36.094550</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-57.811600,-36.094550</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>CASA ELICEIRY S.A.</ms:razonsocial>
+      <ms:cuit>30-70861333-5</ms:cuit>
+      <ms:direccion>RUTA 2 KM 178</ms:direccion>
+      <ms:localidad>CASTELLI</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.7907">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.263280,-35.052800 -60.263280,-35.052800</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.263280,-35.052800</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>EDUARDO BERAZA SA</ms:razonsocial>
+      <ms:cuit>30-54709052-3</ms:cuit>
+      <ms:direccion>Ruta Nac. 5 km 189</ms:direccion>
+      <ms:localidad>ALBERTI</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.7989">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-58.506140,-35.773767 -58.506140,-35.773767</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-58.506140,-35.773767</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>TRANSAGRO S.A.</ms:razonsocial>
+      <ms:cuit>30-60673310-7</ms:cuit>
+      <ms:direccion>RUTA 41 KM 265</ms:direccion>
+      <ms:localidad>GRAL. BELGRANO</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.8292">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-63.645533,-31.320313 -63.645533,-31.320313</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-63.645533,-31.320313</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>OSVALDO FANTINI &amp; CIA SRL</ms:razonsocial>
+      <ms:cuit>33-57355368-9</ms:cuit>
+      <ms:direccion>Ruta Nacional N° 19 - KM 283,1</ms:direccion>
+      <ms:localidad>RIO PRIMERO</ms:localidad>
+      <ms:provincia>CORDOBA</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.8390">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-67.542860,-45.895710 -67.542860,-45.895710</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-67.542860,-45.895710</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>ENERGIAS DE LA CUENCA SRL</ms:razonsocial>
+      <ms:cuit>30-71456066-9</ms:cuit>
+      <ms:direccion>RUTA NACIONAL Nº 3 -KM 1848</ms:direccion>
+      <ms:localidad>COMODORO RIVADAVIA</ms:localidad>
+      <ms:provincia>CHUBUT</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.8420">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.846392,-35.467606 -60.846392,-35.467606</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.846392,-35.467606</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>GUAZZARONI GRECO S.A.</ms:razonsocial>
+      <ms:cuit>30-54264874-7</ms:cuit>
+      <ms:direccion>RUTA NACIONAL 5 KM 262</ms:direccion>
+      <ms:localidad>9 DE JULIO</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9004">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.718189,-31.532475 -60.718189,-31.532475</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.718189,-31.532475</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>FAVINI SA</ms:razonsocial>
+      <ms:cuit>30-64156462-8</ms:cuit>
+      <ms:direccion>RUTA PROV N° 5 KM 0,5</ms:direccion>
+      <ms:localidad>MONTE VERA</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9041">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-63.964378,-34.519417 -63.964378,-34.519417</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-63.964378,-34.519417</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>ALFREDO CARDINAL E HIJOS SRL</ms:razonsocial>
+      <ms:cuit>30-52802562-1</ms:cuit>
+      <ms:direccion>Ruta Prov N°27 Km 133</ms:direccion>
+      <ms:localidad>JOVITA</ms:localidad>
+      <ms:provincia>CORDOBA</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9219">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-58.522918,-32.807689 -58.522918,-32.807689</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-58.522918,-32.807689</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>COMBUSTIBLES LITORAL SA</ms:razonsocial>
+      <ms:cuit>30-70184114-6</ms:cuit>
+      <ms:direccion>RUTA 14 KM 83.2</ms:direccion>
+      <ms:localidad>GUALEGUAYCHU</ms:localidad>
+      <ms:provincia>ENTRE RIOS</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9227">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.645224,-32.951233 -60.645224,-32.951233</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.645224,-32.951233</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>TERESA  FERNANDEZ</ms:razonsocial>
+      <ms:cuit>27-05081245-1</ms:cuit>
+      <ms:direccion>paraguay 1256</ms:direccion>
+      <ms:localidad>ROSARIO</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9414">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-61.860597,-35.834398 -61.860597,-35.834398</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-61.860597,-35.834398</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>SEFAC PEHUAJO S.A.</ms:razonsocial>
+      <ms:cuit>30-70806364-5</ms:cuit>
+      <ms:direccion>RUTA NACIONAL Nº5 KM 369</ms:direccion>
+      <ms:localidad>PEHUAJO</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9534">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-64.234471,-27.822414 -64.234471,-27.822414</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-64.234471,-27.822414</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>G-ENERGY SRL</ms:razonsocial>
+      <ms:cuit>30-71589633-4</ms:cuit>
+      <ms:direccion>INDEPENDENCIA (S) 3478</ms:direccion>
+      <ms:localidad>SGO. DEL ESTERO</ms:localidad>
+      <ms:provincia>SANTIAGO DEL ESTERO</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9693">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-62.093410,-33.120110 -62.093410,-33.120110</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-62.093410,-33.120110</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>ECHANIZ HERMANOS S.A.</ms:razonsocial>
+      <ms:cuit>30-66847324-1</ms:cuit>
+      <ms:direccion>Bv Jose M. Aldao 55 Bis</ms:direccion>
+      <ms:localidad>CAMILO ALDAO</ms:localidad>
+      <ms:provincia>CORDOBA</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9724">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-68.166260,-38.710930 -68.166260,-38.710930</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-68.166260,-38.710930</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>PUMA</ms:empresabandera>
+      <ms:razonsocial>GLOBAL OIL SRL</ms:razonsocial>
+      <ms:cuit>30-71146351-4</ms:cuit>
+      <ms:direccion>RUTA NACIONAL 151 KM 31.5</ms:direccion>
+      <ms:localidad>BARDA DEL MEDIO</ms:localidad>
+      <ms:provincia>RIO NEGRO</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9755">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.512677,-34.270967 -60.512677,-34.270967</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.512677,-34.270967</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>FERTAGRO SA</ms:razonsocial>
+      <ms:cuit>30-70987676-3</ms:cuit>
+      <ms:direccion>Ruta Provincial 31 Km 150</ms:direccion>
+      <ms:localidad>SALTO</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9844">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.298800,-38.374830 -60.298800,-38.374830</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.298800,-38.374830</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>RAISER TRES ARROYOS SA</ms:razonsocial>
+      <ms:cuit>30-71082728-8</ms:cuit>
+      <ms:direccion>Caseros 1330</ms:direccion>
+      <ms:localidad>TRES ARROYOS</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9873">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-59.787841,-35.272108 -59.787841,-35.272108</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-59.787841,-35.272108</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>AGROSERVICE RIESTRA SA</ms:razonsocial>
+      <ms:cuit>30-60966739-3</ms:cuit>
+      <ms:direccion>Juan Domingo Peron S/N</ms:direccion>
+      <ms:localidad>NOBERTO DE LA RIESTRA</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9875">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-68.487036,-33.119581 -68.487036,-33.119581</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-68.487036,-33.119581</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>REAL S.A.</ms:razonsocial>
+      <ms:cuit>30-70939294-4</ms:cuit>
+      <ms:direccion>ISIDORO BOUSQUETS 2681</ms:direccion>
+      <ms:localidad>JUNIN</ms:localidad>
+      <ms:provincia>MENDOZA</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9876">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-68.733631,-38.368399 -68.733631,-38.368399</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-68.733631,-38.368399</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>REAL S.A.</ms:razonsocial>
+      <ms:cuit>30-70939294-4</ms:cuit>
+      <ms:direccion>RUTA PROV. 7 LOTE 15 - FRAC C</ms:direccion>
+      <ms:localidad>AÑELO</ms:localidad>
+      <ms:provincia>NEUQUEN</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9906">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-64.993104,-26.878493 -64.993104,-26.878493</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-64.993104,-26.878493</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>AGRO ENERGÍA S.A.</ms:razonsocial>
+      <ms:cuit>33-71547703-9</ms:cuit>
+      <ms:direccion>Ruta 303 KM 13,7</ms:direccion>
+      <ms:localidad>LOS RALOS</ms:localidad>
+      <ms:provincia>TUCUMAN</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.9944">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-63.340503,-36.802466 -63.340503,-36.802466</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-63.340503,-36.802466</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>HERBALEJO FABRICIO CLAUDIO</ms:razonsocial>
+      <ms:cuit>20-22839360-7</ms:cuit>
+      <ms:direccion>SARMIENTO 235</ms:direccion>
+      <ms:localidad>VILLA MAZA</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10063">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-63.365280,-34.148330 -63.365280,-34.148330</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-63.365280,-34.148330</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>BAUHAUS EE SA</ms:razonsocial>
+      <ms:cuit>33-71682180-9</ms:cuit>
+      <ms:direccion>RUTA NACIONAL 7 KM 486,5</ms:direccion>
+      <ms:localidad>LABOULAYE</ms:localidad>
+      <ms:provincia>CORDOBA</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10096">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-54.710580,-26.476965 -54.710580,-26.476965</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-54.710580,-26.476965</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>GRUPO LV SRL</ms:razonsocial>
+      <ms:cuit>30-71377880-6</ms:cuit>
+      <ms:direccion>ENTRE RIOS 2457</ms:direccion>
+      <ms:localidad>PTO. PIRAY</ms:localidad>
+      <ms:provincia>MISIONES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10135">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-61.511406,-34.842112 -61.511406,-34.842112</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-61.511406,-34.842112</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>SEFAC PEHUAJO SA</ms:razonsocial>
+      <ms:cuit>30-70806364-5</ms:cuit>
+      <ms:direccion>RUTA NACIONAL 188  220</ms:direccion>
+      <ms:localidad>LINCOLN</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10140">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-54.511088,-27.006933 -54.511088,-27.006933</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-54.511088,-27.006933</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>ARMANDO SCHOLLES S.A. DE TRANSPORTE</ms:razonsocial>
+      <ms:cuit>30-70759550-3</ms:cuit>
+      <ms:direccion>RUTA NAC 14 KM 973</ms:direccion>
+      <ms:localidad>SAN VICENTE</ms:localidad>
+      <ms:provincia>MISIONES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10186">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-59.646172,-29.146221 -59.646172,-29.146221</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-59.646172,-29.146221</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>BC COMBUSTIBLES S.A.</ms:razonsocial>
+      <ms:cuit>30-70783721-3</ms:cuit>
+      <ms:direccion>Belgrano Nº 899</ms:direccion>
+      <ms:localidad>RECONQUISTA</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10253">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-63.483769,-32.544337 -63.483769,-32.544337</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-63.483769,-32.544337</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>POSTA DEL MERCOSUR SRL</ms:razonsocial>
+      <ms:cuit>30-70904630-2</ms:cuit>
+      <ms:direccion>Bv. San Martin 12 - LOCALIDAD LUCA</ms:direccion>
+      <ms:localidad>DALMACIO VELEZ SARSFIELD</ms:localidad>
+      <ms:provincia>CORDOBA</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10269">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-62.985116,-35.032958 -62.985116,-35.032958</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-62.985116,-35.032958</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>YAPAI S.R.L.</ms:razonsocial>
+      <ms:cuit>30-70753196-3</ms:cuit>
+      <ms:direccion>ruta nacional 188 km 360.5</ms:direccion>
+      <ms:localidad>GRAL. VILLEGAS</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10364">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-60.856337,-35.471159 -60.856337,-35.471159</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-60.856337,-35.471159</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>LOS PINOS LUBRICANTES S.R.L.</ms:razonsocial>
+      <ms:cuit>30-70877594-7</ms:cuit>
+      <ms:direccion>TUCUMAN 612</ms:direccion>
+      <ms:localidad>CAPITAL FEDERAL</ms:localidad>
+      <ms:provincia>CAPITAL FEDERAL</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10410">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-62.369488,-27.646610 -62.369488,-27.646610</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-62.369488,-27.646610</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>AGRICOLA DEL ESTERO SRL</ms:razonsocial>
+      <ms:cuit>30-71409105-7</ms:cuit>
+      <ms:direccion>SALTA Nº 23</ms:direccion>
+      <ms:localidad>SANTIAGO DEL ESTERO</ms:localidad>
+      <ms:provincia>SANTIAGO DEL ESTERO</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10427">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-61.900025,-38.483430 -61.900025,-38.483430</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-61.900025,-38.483430</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>PUMA</ms:empresabandera>
+      <ms:razonsocial>COOPERATIVA AGROPECUARIA GANADERA E INDUSTRIAL SOMBRA DE TORO LIMITADA</ms:razonsocial>
+      <ms:cuit>30-53087131-9</ms:cuit>
+      <ms:direccion>Larrea 180</ms:direccion>
+      <ms:localidad>CABILDO</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10495">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-65.247716,-26.809827 -65.247716,-26.809827</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-65.247716,-26.809827</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>HAKIM S.R.L.</ms:razonsocial>
+      <ms:cuit>33-71633495-9</ms:cuit>
+      <ms:direccion>av. belgrano 3582</ms:direccion>
+      <ms:localidad>SAN MIGUEL DE TUCUMAN</ms:localidad>
+      <ms:provincia>TUCUMAN</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10548">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-65.442214,-33.648679 -65.442214,-33.648679</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-65.442214,-33.648679</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>YPF</ms:empresabandera>
+      <ms:razonsocial>25 DE MAYO S.R.L.</ms:razonsocial>
+      <ms:cuit>30-56342987-5</ms:cuit>
+      <ms:direccion>AV PRESIDENTE PERÓN 2651</ms:direccion>
+      <ms:localidad>VILLA MERCEDES</ms:localidad>
+      <ms:provincia>SAN LUIS</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10715">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-55.028748,-26.822904 -55.028748,-26.822904</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-55.028748,-26.822904</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>BLANCA</ms:empresabandera>
+      <ms:razonsocial>PETA S.R.L.</ms:razonsocial>
+      <ms:cuit>30-67251805-5</ms:cuit>
+      <ms:direccion>RUTA NAC. 12 KM 1467</ms:direccion>
+      <ms:localidad>PTO. PIRAY</ms:localidad>
+      <ms:provincia>MISIONES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10736">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-61.506415,-31.247563 -61.506415,-31.247563</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-61.506415,-31.247563</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>SHELL C.A.P.S.A.</ms:empresabandera>
+      <ms:razonsocial>PETRORAFAELA SRL</ms:razonsocial>
+      <ms:cuit>33-68439985-9</ms:cuit>
+      <ms:direccion>Cpto. Zurbriggen 335</ms:direccion>
+      <ms:localidad>RAFAELA</ms:localidad>
+      <ms:provincia>SANTA FE</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ms:res1104_mmino_dist fid="res1104_mmino_dist.10764">
+      <gml:boundedBy>
+        <gml:Box srsName="EPSG:4326">
+          <gml:coordinates>-58.744985,-38.516633 -58.744985,-38.516633</gml:coordinates>
+        </gml:Box>
+      </gml:boundedBy>
+      <ms:msGeometry>
+        <gml:Point srsName="EPSG:4326">
+          <gml:coordinates>-58.744985,-38.516633</gml:coordinates>
+        </gml:Point>
+      </ms:msGeometry>
+      <ms:empresabandera>AXION</ms:empresabandera>
+      <ms:razonsocial>COSTA AUSTRAL SA</ms:razonsocial>
+      <ms:cuit>30-71195861-0</ms:cuit>
+      <ms:direccion>CALLE 114 N° 715</ms:direccion>
+      <ms:localidad>NECOHEA</ms:localidad>
+      <ms:provincia>BUENOS AIRES</ms:provincia>
+    </ms:res1104_mmino_dist>
+  </gml:featureMember>
+</wfs:FeatureCollection>

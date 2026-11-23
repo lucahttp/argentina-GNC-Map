@@ -1,0 +1,18 @@
+550KM
+
+
+Gas stations
+
+
+
+<Name>res1104_mmino_eess</Name>
+        <Title>Estaciones de servicio de combustibles líquidos y GNC (RES.1104/04)</Title>
+        
+https://sig.energia.gob.ar/wmspubmap?VERSION=1.0.0&SERVICE=WFS&REQUEST=GetFeature&TYPENAME=res1104_mmino_eess
+
+
+
+
+Distribuidores minoristas de combustibles líquidos y GNC (RES.1104/04)
+
+https://sig.energia.gob.ar/wmspubmap?VERSION=1.0.0&SERVICE=WFS&REQUEST=GetFeature&TYPENAME=res1104_mmino_dist

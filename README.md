@@ -8,9 +8,11 @@ main website: https://sig.energia.gob.ar/visor/visorsig.php
 
 
 
+/Library/Frameworks/Python.framework/Versions/3.13/bin/python3.13 -m pip install --upgrade pip
 
 
-
+virtualenv -p /home/username/opt/python-3.10.1/bin/python3 venv
+source venv/bin/activate
 
 
 
